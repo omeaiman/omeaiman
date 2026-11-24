@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="168" viewBox="0 0 320 168" role="img" aria-labelledby="si-title">
+  <title id="si-title">71,241 Google impressions in 28 days for a US AI sales platform, up 486% from 12,146 one month earlier. Google Search Console, 26 Oct to 22 Nov 2026.</title>
+  <defs>
+    <linearGradient id="si-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081530"/>
+      <stop offset="1" stop-color="#0f2752"/>
+    </linearGradient>
+    <linearGradient id="si-area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b94ec" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#4b94ec" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="si-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4b94ec"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .tag{font-size:10.5px;font-weight:700;letter-spacing:1.2px;fill:#8ab8ff}
+    .val{font-size:42px;font-weight:800;letter-spacing:-1px;fill:#ffffff}
+    .lab{font-size:14px;font-weight:600;fill:#d3e1f7}
+    .dl{font-size:12.5px;font-weight:800;fill:#5eead4}
+    .from{font-size:12px;font-weight:500;fill:#a9bddd}
+    .src{font-size:11px;font-weight:500;fill:#7f93b5}
+    .cap{font-size:9.5px;font-weight:600;fill:#7f93b5;letter-spacing:.6px}
+    .up{animation:up .7s cubic-bezier(.2,.8,.2,1) both}
+    .u2{animation-delay:.12s}.u3{animation-delay:.24s}.u4{animation-delay:.36s}
+    @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    .spark{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 1.3s cubic-bezier(.4,0,.2,1) .4s both}
+    @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+    .area{animation:fade .8s ease 1.3s both}
+    .dot{animation:fade .4s ease 1.6s both}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    .ping{transform-box:fill-box;transform-origin:50% 50%;opacity:0;animation:ping 2.4s ease-out 1.8s infinite}
+    @keyframes ping{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+    @media (prefers-reduced-motion:reduce){.up,.spark,.area,.dot{animation:none}.ping{animation:none;opacity:0}}
+  </style>
+  <rect x=".5" y=".5" width="319" height="167" rx="16" fill="url(#si-bg)" stroke="#23406f"/>
+  <g class="f">
+    <g class="up">
+      <circle cx="24" cy="26" r="4" fill="#4b94ec"/>
+      <text x="34" y="30" class="tag">AI SALES PLATFORM (US)</text>
+    </g>
+    <text x="20" y="80" class="val up u2">71,241</text>
+    <text x="20" y="103" class="lab up u3">Google impressions in 28 days</text>
+    <g class="up u4">
+      <rect x="20" y="113" width="62" height="22" rx="11" fill="#0f766e" fill-opacity=".38" stroke="#2dd4bf" stroke-opacity=".55"/>
+      <text x="51" y="128.5" class="dl" text-anchor="middle">+486%</text>
+      <text x="91" y="128.5" class="from">from 12,146 a month earlier</text>
+    </g>
+    <text x="20" y="155" class="src">Google Search Console · 26 Oct to 22 Nov 2026</text>
+
+    <!-- 28-day totals at each checkpoint: 3,360 / 12,146 / 31,350 / 71,241 -->
+    <path class="area" d="M200 81.83L232 76.16L264 63.76L296 38L296 84L200 84Z" fill="url(#si-area)"/>
+    <line x1="200" x2="296" y1="84" y2="84" stroke="#ffffff" stroke-opacity=".15"/>
+    <path class="spark" pathLength="1" d="M200 81.83L232 76.16L264 63.76L296 38" fill="none" stroke="url(#si-line)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="dot">
+      <circle class="ping" cx="296" cy="38" r="4" fill="#5eead4"/>
+      <circle cx="296" cy="38" r="4.5" fill="#5eead4" stroke="#0f2752" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
