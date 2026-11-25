@@ -2,13 +2,13 @@
   <a href="https://omeaiman.github.io/"><img src="banner.svg" width="100%" alt="Ome Aiman Rasheed, Digital Growth Manager and AI Automation Engineer. SEO, AEO, GEO and AI agents. Google impressions up nearly 6x in one month."></a>
 </p>
 
-<p align="center"><b>I help US technology companies get found on Google and in AI answers, then build the AI automations that keep that growth running, with a person approving every step that goes live.</b></p>
+<p align="center"><b>I help companies worldwide, US technology companies first, get found on Google and in AI answers, then build the AI automations that keep that growth running, with a person approving every step that goes live.</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ome-aiman-rasheed-55223320b/"><img alt="LinkedIn: connect" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5Ljc1aDR2MTFIM3YtMTF6bTYuNSAwaDMuOHYxLjZoLjA2Yy41My0xIDEuODQtMi4wNSAzLjc4LTIuMDUgNC4wNCAwIDQuNzkgMi42NiA0Ljc5IDYuMTJ2NS4zM2gtNHYtNC43M2MwLTEuMTMtLjAyLTIuNTgtMS41Ny0yLjU4LTEuNTggMC0xLjgyIDEuMjMtMS44MiAyLjV2NC44MWgtNHYtMTF6Ii8%2BPC9zdmc%2B"></a>
   <a href="mailto:aiman.rasheed71@gmail.com"><img alt="Email: aiman.rasheed71@gmail.com" src="https://img.shields.io/badge/Email-aiman.rasheed71%40gmail.com-0B1730?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://omeaiman.github.io/"><img alt="Portfolio: omeaiman.github.io" src="https://img.shields.io/badge/Portfolio-omeaiman.github.io-0F766E?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <img alt="Open to remote roles, US hours" src="https://img.shields.io/badge/Open%20to-Remote%20roles%2C%20US%20hours-1D63D1?style=for-the-badge">
+  <img alt="Open to remote roles worldwide, US hours welcome" src="https://img.shields.io/badge/Open%20to-Remote%20roles%20worldwide%2C%20US%20hours-1D63D1?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -167,4 +167,4 @@ Also: Ahrefs, Canva, Screaming Frog, Bing Webmaster Tools, Microsoft Clarity, Pa
   <a href="https://www.linkedin.com/in/ome-aiman-rasheed-55223320b/"><img alt="Message me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5Ljc1aDR2MTFIM3YtMTF6bTYuNSAwaDMuOHYxLjZoLjA2Yy41My0xIDEuODQtMi4wNSAzLjc4LTIuMDUgNC4wNCAwIDQuNzkgMi42NiA0Ljc5IDYuMTJ2NS4zM2gtNHYtNC43M2MwLTEuMTMtLjAyLTIuNTgtMS41Ny0yLjU4LTEuNTggMC0xLjgyIDEuMjMtMS44MiAyLjV2NC44MWgtNHYtMTF6Ii8%2BPC9zdmc%2B"></a>
 </p>
 
-<p align="center"><sub>Based in Pakistan, working remotely on US hours. Last updated 24 Nov 2026.</sub></p>
+<p align="center"><sub>Based in Pakistan, working remotely with companies worldwide (US hours welcome). Last updated 26 Nov 2026.</sub></p>
