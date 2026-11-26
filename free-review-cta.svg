@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="cta-title cta-desc">
+  <title id="cta-title">Free 10-minute website review: email me your website address</title>
+  <desc id="cta-desc">Send your website address and I will look at it for search (how Google sees and ranks it), AI answers (whether AI assistants cite it) and page speed (load time on phone and desktop). Email aiman.rasheed71@gmail.com.</desc>
+  <defs>
+    <linearGradient id="cta-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d63d1"/>
+      <stop offset="1" stop-color="#0b6f68"/>
+    </linearGradient>
+    <linearGradient id="cta-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="cta-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity=".10"/>
+    </pattern>
+    <clipPath id="cta-clip"><rect width="900" height="300" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .eb{font-size:13px;font-weight:800;letter-spacing:2px;fill:#d1fae5}
+    .h{font-size:32px;font-weight:800;letter-spacing:-.6px;fill:#ffffff}
+    .s{font-size:16px;font-weight:500;fill:#dbeafe}
+    .it{font-size:17px;font-weight:800;fill:#ffffff}
+    .idd{font-size:14px;font-weight:500;fill:#e0ecff}
+    .bt{font-size:19px;font-weight:800;fill:#0b3f7a}
+    .bs{font-size:14px;font-weight:600;fill:#dbeafe}
+    .free{font-size:13px;font-weight:800;letter-spacing:1px;fill:#0b3f7a}
+    .up{animation:up .7s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    .t1{animation-delay:.05s}.t2{animation-delay:.15s}.t3{animation-delay:.25s}
+    .i1{animation-delay:0.40s}.i2{animation-delay:0.54s}.i3{animation-delay:0.68s}
+    .btn{animation:up .7s cubic-bezier(.2,.8,.2,1) .9s both}
+    .shine{animation:shine 4.6s cubic-bezier(.4,0,.2,1) 1.6s infinite}
+    @keyframes shine{0%{transform:translateX(-200px) skewX(-20deg)}45%,100%{transform:translateX(1100px) skewX(-20deg)}}
+    .arrow{animation:nudge 1.8s ease-in-out 1.6s infinite}
+    @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(4px)}}
+    @media (prefers-reduced-motion:reduce){.up,.btn,.arrow{animation:none}.shine{animation:none;opacity:0}}
+  </style>
+  <g clip-path="url(#cta-clip)">
+    <rect width="900" height="300" fill="url(#cta-bg)"/>
+    <rect width="900" height="300" fill="url(#cta-dots)"/>
+    <rect class="shine" x="0" y="-20" width="140" height="340" fill="url(#cta-shine)" transform="translate(-200,0)"/>
+  </g>
+  <rect x=".75" y=".75" width="898.5" height="298.5" rx="19.25" fill="none" stroke="#ffffff" stroke-opacity=".3" stroke-width="1.5"/>
+  <g class="f">
+    <g class="up t1">
+      <rect x="36" y="30" width="62" height="24" rx="12" fill="#5eead4"/>
+      <text x="67" y="47" class="free" text-anchor="middle">FREE</text>
+      <text x="110" y="47" class="eb">10-MINUTE WEBSITE REVIEW</text>
+    </g>
+    <text x="36" y="96" class="h up t2">Want more leads from Google and AI answers?</text>
+    <text x="36" y="126" class="s up t3">Send your website address and I will look at it for three things:</text>
+    
+    <g class="up i1">
+      <rect x="36" y="150" width="184" height="96" rx="14" fill="#ffffff" fill-opacity=".12" stroke="#ffffff" stroke-opacity=".25"/>
+      <circle cx="66" cy="180" r="16" fill="#ffffff"/>
+      <g transform="translate(56 170) scale(0.8333)" fill="none" stroke="#0b5fae" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></g>
+      <text x="92" y="186" class="it">Search</text>
+      <text x="52" y="216" class="idd"><tspan x="52">How Google sees</tspan><tspan x="52" dy="18">and ranks it</tspan></text>
+    </g>
+    <g class="up i2">
+      <rect x="232" y="150" width="184" height="96" rx="14" fill="#ffffff" fill-opacity=".12" stroke="#ffffff" stroke-opacity=".25"/>
+      <circle cx="262" cy="180" r="16" fill="#ffffff"/>
+      <g transform="translate(252 170) scale(0.8333)" fill="none" stroke="#0b5fae" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 0 1-11.6 7.1L4 20l1-4.2A8 8 0 1 1 20 12z"/><path d="M12 8.2l.9 2.2 2.2.9-2.2.9-.9 2.2-.9-2.2-2.2-.9 2.2-.9z"/></g>
+      <text x="288" y="186" class="it">AI answers</text>
+      <text x="248" y="216" class="idd"><tspan x="248">Whether AI assistants</tspan><tspan x="248" dy="18">cite it</tspan></text>
+    </g>
+    <g class="up i3">
+      <rect x="428" y="150" width="184" height="96" rx="14" fill="#ffffff" fill-opacity=".12" stroke="#ffffff" stroke-opacity=".25"/>
+      <circle cx="458" cy="180" r="16" fill="#ffffff"/>
+      <g transform="translate(448 170) scale(0.8333)" fill="none" stroke="#0b5fae" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L5 13.5h6L10 22l8-11.5h-6z"/></g>
+      <text x="484" y="186" class="it">Page speed</text>
+      <text x="444" y="216" class="idd"><tspan x="444">Load time on</tspan><tspan x="444" dy="18">phone and desktop</tspan></text>
+    </g>
+    <g class="btn">
+      <rect x="626" y="150" width="244" height="62" rx="31" fill="#ffffff"/>
+      <text x="650" y="188" class="bt">Get my free review</text>
+      <path class="arrow" d="M834 181h14M842 174.5l6.5 6.5-6.5 6.5" fill="none" stroke="#0b5fae" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="748" y="238" class="bs" text-anchor="middle">aiman.rasheed71@gmail.com</text>
+    </g>
+  </g>
+</svg>

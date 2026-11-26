@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="384" viewBox="0 0 900 384" role="img" aria-labelledby="hw-title hw-desc">
+  <title id="hw-title">How I work: plan, ship, measure, report</title>
+  <desc id="hw-desc">1. Plan: a dated plan with targets agreed before work starts, broken into daily tasks. 2. Ship: fixes backed by the platform's own documentation, with a rollback for anything hard to undo; a person approves what goes live. 3. Measure: owned data first, Search Console, GA4 and Bing Webmaster Tools, plus Semrush for authority and AI visibility. 4. Report: weekly reads and 30, 45 and 60 day checkpoints that say what worked, what did not and what to cut.</desc>
+  <defs>
+    <linearGradient id="hw-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081530"/>
+      <stop offset="1" stop-color="#0f2752"/>
+    </linearGradient>
+    <radialGradient id="hw-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2a78d6" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#2a78d6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="hw-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#9fc1ff" fill-opacity=".10"/>
+    </pattern>
+    <clipPath id="hw-clip"><rect width="900" height="384" rx="20"/></clipPath>
+    <radialGradient id="hw-step" cx="35%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#1d63d1"/>
+      <stop offset="1" stop-color="#0b4f63"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .eb{font-size:13px;font-weight:700;letter-spacing:2px;fill:#8ab8ff}
+    .ebo{font-size:13px;font-weight:700;letter-spacing:2px;fill:#ffb38f}
+    .h1{font-size:28px;font-weight:800;letter-spacing:-.5px;fill:#ffffff}
+    .sub{font-size:15px;font-weight:500;fill:#a9bddd}
+    .src{font-size:13px;font-weight:500;fill:#7f93b5}
+    .up{animation:up .7s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    .st{font-size:20px;font-weight:800;fill:#ffffff}
+    .sd{font-size:14px;font-weight:500;fill:#b9cae6}
+    .num{font-size:14px;font-weight:800;fill:#081530}
+    .foot{font-size:14px;font-weight:700;fill:#5eead4}
+    .t1{animation-delay:.05s}.t2{animation-delay:.15s}
+    .s1{animation-delay:0.30s}.s2{animation-delay:0.60s}.s3{animation-delay:0.90s}.s4{animation-delay:1.20s}
+    .link{stroke-dashoffset:0;animation:draw .5s ease-out both}
+    .arrow{animation:fade .3s ease both}
+    .l1{animation-delay:.6s}.l2{animation-delay:.9s}.l3{animation-delay:1.2s}
+    @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+    .ring{transform-box:fill-box;transform-origin:50% 50%;opacity:0;animation:ring 6s ease-out infinite}
+    .r1{animation-delay:2.2s}.r2{animation-delay:3.7s}.r3{animation-delay:5.2s}.r4{animation-delay:6.7s}
+    @keyframes ring{0%{transform:scale(1);opacity:.6}25%,100%{transform:scale(1.35);opacity:0}}
+    .ft{animation:fade .6s ease 1.7s both}
+    @media (prefers-reduced-motion:reduce){.up,.link,.arrow,.ft{animation:none}.ring{animation:none;opacity:0}}
+  </style>
+  <g clip-path="url(#hw-clip)">
+    <rect width="900" height="384" fill="url(#hw-bg)"/>
+    <rect width="900" height="384" fill="url(#hw-dots)"/>
+    <circle cx="450" cy="-40" r="300" fill="url(#hw-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="899" height="383" rx="19.5" fill="none" stroke="#23406f"/>
+  <g class="f">
+    <g class="up t1">
+      <circle cx="42" cy="44" r="4.5" fill="#5eead4"/>
+      <text x="56" y="49" class="eb">HOW I WORK</text>
+    </g>
+    <text x="36" y="86" class="h1 up t2">Plan, ship, measure, report</text>
+    
+    <g class="up s1">
+      <circle class="ring r1" cx="130.5" cy="150" r="36" fill="none" stroke="#5eead4" stroke-width="2"/>
+      <circle cx="130.5" cy="150" r="36" fill="url(#hw-step)" stroke="#5eead4" stroke-opacity=".55" stroke-width="1.5"/>
+      <g transform="translate(115.5 135) scale(1.25)" fill="none" stroke="#ffffff" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4M8.5 15.5l2.2 2.2 4.8-4.8"/></g>
+      <circle cx="157.5" cy="123" r="13" fill="#5eead4"/>
+      <text x="157.5" y="127.8" class="num" text-anchor="middle">1</text>
+      <text x="130.5" y="220" class="st" text-anchor="middle">Plan</text>
+      <text x="130.5" y="248" class="sd" text-anchor="middle"><tspan x="130.5" dy="0">A dated plan with targets</tspan><tspan x="130.5" dy="19">agreed before work starts,</tspan><tspan x="130.5" dy="19">broken into daily tasks.</tspan></text>
+    </g>
+    <path class="link l1" pathLength="1" d="M176.5 150H293.5" stroke="#5eead4" stroke-opacity=".7" stroke-width="2" stroke-dasharray="1" fill="none"/>
+    <path class="arrow l1" d="M286.5 144L294.5 150L286.5 156" stroke="#5eead4" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="up s2">
+      <circle class="ring r2" cx="343.5" cy="150" r="36" fill="none" stroke="#5eead4" stroke-width="2"/>
+      <circle cx="343.5" cy="150" r="36" fill="url(#hw-step)" stroke="#5eead4" stroke-opacity=".55" stroke-width="1.5"/>
+      <g transform="translate(328.5 135) scale(1.25)" fill="none" stroke="#ffffff" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V4M7.5 8.5L12 4l4.5 4.5"/><path d="M4 14v4a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-4"/></g>
+      <circle cx="370.5" cy="123" r="13" fill="#5eead4"/>
+      <text x="370.5" y="127.8" class="num" text-anchor="middle">2</text>
+      <text x="343.5" y="220" class="st" text-anchor="middle">Ship</text>
+      <text x="343.5" y="248" class="sd" text-anchor="middle"><tspan x="343.5" dy="0">Fixes backed by the platform's</tspan><tspan x="343.5" dy="19">own documentation, with a</tspan><tspan x="343.5" dy="19">rollback for anything hard to</tspan><tspan x="343.5" dy="19">undo. A person approves</tspan><tspan x="343.5" dy="19">what goes live.</tspan></text>
+    </g>
+    <path class="link l2" pathLength="1" d="M389.5 150H506.5" stroke="#5eead4" stroke-opacity=".7" stroke-width="2" stroke-dasharray="1" fill="none"/>
+    <path class="arrow l2" d="M499.5 144L507.5 150L499.5 156" stroke="#5eead4" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="up s3">
+      <circle class="ring r3" cx="556.5" cy="150" r="36" fill="none" stroke="#5eead4" stroke-width="2"/>
+      <circle cx="556.5" cy="150" r="36" fill="url(#hw-step)" stroke="#5eead4" stroke-opacity=".55" stroke-width="1.5"/>
+      <g transform="translate(541.5 135) scale(1.25)" fill="none" stroke="#ffffff" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h16"/><rect x="5.5" y="12" width="3" height="6" rx="1"/><rect x="10.5" y="8" width="3" height="10" rx="1"/><rect x="15.5" y="4" width="3" height="14" rx="1"/></g>
+      <circle cx="583.5" cy="123" r="13" fill="#5eead4"/>
+      <text x="583.5" y="127.8" class="num" text-anchor="middle">3</text>
+      <text x="556.5" y="220" class="st" text-anchor="middle">Measure</text>
+      <text x="556.5" y="248" class="sd" text-anchor="middle"><tspan x="556.5" dy="0">Owned data first: Search</tspan><tspan x="556.5" dy="19">Console, GA4 and Bing</tspan><tspan x="556.5" dy="19">Webmaster Tools, plus</tspan><tspan x="556.5" dy="19">Semrush for authority and</tspan><tspan x="556.5" dy="19">AI visibility.</tspan></text>
+    </g>
+    <path class="link l3" pathLength="1" d="M602.5 150H719.5" stroke="#5eead4" stroke-opacity=".7" stroke-width="2" stroke-dasharray="1" fill="none"/>
+    <path class="arrow l3" d="M712.5 144L720.5 150L712.5 156" stroke="#5eead4" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="up s4">
+      <circle class="ring r4" cx="769.5" cy="150" r="36" fill="none" stroke="#5eead4" stroke-width="2"/>
+      <circle cx="769.5" cy="150" r="36" fill="url(#hw-step)" stroke="#5eead4" stroke-opacity=".55" stroke-width="1.5"/>
+      <g transform="translate(754.5 135) scale(1.25)" fill="none" stroke="#ffffff" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3h7l5 5v11a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/><path d="M14 3v5h5M8.5 13h7M8.5 16.5h5"/></g>
+      <circle cx="796.5" cy="123" r="13" fill="#5eead4"/>
+      <text x="796.5" y="127.8" class="num" text-anchor="middle">4</text>
+      <text x="769.5" y="220" class="st" text-anchor="middle">Report</text>
+      <text x="769.5" y="248" class="sd" text-anchor="middle"><tspan x="769.5" dy="0">Weekly reads and 30, 45 and</tspan><tspan x="769.5" dy="19">60 day checkpoints that say</tspan><tspan x="769.5" dy="19">what worked, what did not</tspan><tspan x="769.5" dy="19">and what to cut.</tspan></text>
+    </g>
+    <text x="450.0" y="364" class="foot ft" text-anchor="middle">Every number in a report carries its source and date.</text>
+  </g>
+</svg>

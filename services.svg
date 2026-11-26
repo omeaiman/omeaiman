@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="556" viewBox="0 0 900 556" role="img" aria-labelledby="sv-title sv-desc">
+  <title id="sv-title">What I deliver: five services, each with a measured result</title>
+  <desc id="sv-desc">Organic growth strategy: 90-day plans run as 45-day sprints with targets agreed before the work starts; Google impressions 12,146 to 71,241 in 28 days (Search Console, Oct to Nov 2026). AEO and GEO: answer-first pages and llms.txt so ChatGPT, Perplexity, Gemini and Copilot can cite the site; pages cited in AI answers 8 to 33 (Semrush, 16 Oct vs 13 Nov 2026). Technical SEO and page speed: schema, sitemaps, IndexNow, internal links and Core Web Vitals; median mobile LCP 14.0 s to 2.8 s (Lighthouse 13.5.0, 25 Sep vs 2 Oct 2026). AI agents with human approval: a person presses Approve, Request change or Deny; a 188-item social checklist across 7 platform connections. Automation and reporting: 50+ scheduled AI routines in Python and Node.js, and reports where every number has a source and date.</desc>
+  <defs>
+    <linearGradient id="sv-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081530"/>
+      <stop offset="1" stop-color="#0f2752"/>
+    </linearGradient>
+    <radialGradient id="sv-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2a78d6" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#2a78d6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="sv-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#9fc1ff" fill-opacity=".10"/>
+    </pattern>
+    <clipPath id="sv-clip"><rect width="900" height="556" rx="20"/></clipPath>
+    <linearGradient id="sv-tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d63d1"/>
+      <stop offset="1" stop-color="#0b6f68"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .eb{font-size:13px;font-weight:700;letter-spacing:2px;fill:#8ab8ff}
+    .ebo{font-size:13px;font-weight:700;letter-spacing:2px;fill:#ffb38f}
+    .h1{font-size:28px;font-weight:800;letter-spacing:-.5px;fill:#ffffff}
+    .sub{font-size:15px;font-weight:500;fill:#a9bddd}
+    .src{font-size:13px;font-weight:500;fill:#7f93b5}
+    .up{animation:up .7s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    .ct{font-size:18px;font-weight:800;fill:#ffffff}
+    .cd{font-size:14px;font-weight:500;fill:#b9cae6}
+    .pf{font-size:13.5px;font-weight:800;fill:#5eead4}
+    .t1{animation-delay:.05s}.t2{animation-delay:.15s}
+    .c1{animation-delay:0.30s}.c2{animation-delay:0.44s}.c3{animation-delay:0.58s}.c4{animation-delay:0.72s}.c5{animation-delay:0.86s}
+    @media (prefers-reduced-motion:reduce){.up{animation:none}}
+  </style>
+  <g clip-path="url(#sv-clip)">
+    <rect width="900" height="556" fill="url(#sv-bg)"/>
+    <rect width="900" height="556" fill="url(#sv-dots)"/>
+    <circle cx="100" cy="0" r="260" fill="url(#sv-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="899" height="555" rx="19.5" fill="none" stroke="#23406f"/>
+  <g class="f">
+    <g class="up t1">
+      <circle cx="42" cy="44" r="4.5" fill="#5eead4"/>
+      <text x="56" y="49" class="eb">WHAT I DELIVER</text>
+    </g>
+    <text x="36" y="88" class="h1 up t2">Five services, each with a measured result</text>
+    
+    <g class="up c1">
+      <rect x="24" y="112" width="276" height="222" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".11"/>
+      <rect x="46" y="134" width="40" height="40" rx="11" fill="url(#sv-tile)"/>
+      <g transform="translate(55 143) scale(0.9167)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/></g>
+      <text x="46" y="206" class="ct">Organic growth strategy</text>
+      <text x="46" y="236" class="cd"><tspan x="46" dy="0">90-day plans run as 45-day</tspan><tspan x="46" dy="20">sprints, with targets agreed</tspan><tspan x="46" dy="20">before the work starts.</tspan></text>
+      <rect x="46" y="290" width="235" height="28" rx="14" fill="#0f766e" fill-opacity=".34" stroke="#2dd4bf" stroke-opacity=".55"/>
+      <text x="61" y="309" class="pf">12,146 → 71,241 impressions</text>
+    </g>
+    <g class="up c2">
+      <rect x="312" y="112" width="276" height="222" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".11"/>
+      <rect x="334" y="134" width="40" height="40" rx="11" fill="url(#sv-tile)"/>
+      <g transform="translate(343 143) scale(0.9167)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 0 1-11.6 7.1L4 20l1-4.2A8 8 0 1 1 20 12z"/><path d="M12 8.2l.9 2.2 2.2.9-2.2.9-.9 2.2-.9-2.2-2.2-.9 2.2-.9z"/></g>
+      <text x="334" y="206" class="ct">AEO and GEO (AI answers)</text>
+      <text x="334" y="236" class="cd"><tspan x="334" dy="0">Answer-first pages and llms.txt,</tspan><tspan x="334" dy="20">so ChatGPT, Perplexity, Gemini</tspan><tspan x="334" dy="20">and Copilot can cite the site.</tspan></text>
+      <rect x="334" y="290" width="212" height="28" rx="14" fill="#0f766e" fill-opacity=".34" stroke="#2dd4bf" stroke-opacity=".55"/>
+      <text x="349" y="309" class="pf">8 → 33 pages cited by AI</text>
+    </g>
+    <g class="up c3">
+      <rect x="600" y="112" width="276" height="222" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".11"/>
+      <rect x="622" y="134" width="40" height="40" rx="11" fill="url(#sv-tile)"/>
+      <g transform="translate(631 143) scale(0.9167)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L5 13.5h6L10 22l8-11.5h-6z"/></g>
+      <text x="622" y="206" class="ct">Technical SEO and speed</text>
+      <text x="622" y="236" class="cd"><tspan x="622" dy="0">Schema, sitemaps, IndexNow,</tspan><tspan x="622" dy="20">internal links and Core Web</tspan><tspan x="622" dy="20">Vitals work across the site.</tspan></text>
+      <rect x="622" y="290" width="220" height="28" rx="14" fill="#0f766e" fill-opacity=".34" stroke="#2dd4bf" stroke-opacity=".55"/>
+      <text x="637" y="309" class="pf">14.0 s → 2.8 s mobile LCP</text>
+    </g>
+    <g class="up c4">
+      <rect x="24" y="346" width="420" height="168" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".11"/>
+      <rect x="46" y="368" width="40" height="40" rx="11" fill="url(#sv-tile)"/>
+      <g transform="translate(55 377) scale(0.9167)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.6-3 8.4-7 10-4-1.6-7-5.4-7-10V6z"/><path d="M8.8 12.2l2.2 2.2 4.4-4.6"/></g>
+      <text x="100" y="394" class="ct">AI agents with human approval</text>
+      <text x="46" y="438" class="cd"><tspan x="46" dy="0">Agents do the work. A person presses Approve,</tspan><tspan x="46" dy="20">Request change or Deny before anything goes live.</tspan></text>
+      <rect x="46" y="470" width="273" height="28" rx="14" fill="#0f766e" fill-opacity=".34" stroke="#2dd4bf" stroke-opacity=".55"/>
+      <text x="61" y="489" class="pf">188-item checklist · 7 platforms</text>
+    </g>
+    <g class="up c5">
+      <rect x="456" y="346" width="420" height="168" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".11"/>
+      <rect x="478" y="368" width="40" height="40" rx="11" fill="url(#sv-tile)"/>
+      <g transform="translate(487 377) scale(0.9167)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 0 1-14.5 4.7M4 12a8 8 0 0 1 14.5-4.7"/><path d="M18.5 3v4.3h-4.3M5.5 21v-4.3h4.3"/><path d="M12 8.5V12l2.5 1.5"/></g>
+      <text x="532" y="394" class="ct">Automation and reporting</text>
+      <text x="478" y="438" class="cd"><tspan x="478" dy="0">Scheduled AI routines in Python and Node.js, and</tspan><tspan x="478" dy="20">reports where every number has a source and date.</tspan></text>
+      <rect x="478" y="470" width="220" height="28" rx="14" fill="#0f766e" fill-opacity=".34" stroke="#2dd4bf" stroke-opacity=".55"/>
+      <text x="493" y="489" class="pf">50+ scheduled AI routines</text>
+    </g>
+    <text x="36" y="534" class="src">Results from Search Console, Semrush and Lighthouse, Sep to Nov 2026, with dates in the results table.</text>
+  </g>
+</svg>

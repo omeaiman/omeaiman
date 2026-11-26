@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="516" viewBox="0 0 900 516" role="img" aria-labelledby="ts-title ts-desc">
+  <title id="ts-title">Tech and tools: build and automate, measure, publish and design</title>
+  <desc id="ts-desc">Build and automate: Python, Node.js, Claude Code, MCP integrations, GitHub. Measure: Google Search Console, Google Analytics 4, Semrush, Lighthouse, Bing Webmaster Tools. Publish and design: WordPress, Notion, Figma, Canva, JSON-LD schema and llms.txt.</desc>
+  <defs>
+    <linearGradient id="ts-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081530"/>
+      <stop offset="1" stop-color="#0f2752"/>
+    </linearGradient>
+    <radialGradient id="ts-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2a78d6" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#2a78d6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="ts-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#9fc1ff" fill-opacity=".10"/>
+    </pattern>
+    <clipPath id="ts-clip"><rect width="900" height="516" rx="20"/></clipPath></defs>
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .eb{font-size:13px;font-weight:700;letter-spacing:2px;fill:#8ab8ff}
+    .ebo{font-size:13px;font-weight:700;letter-spacing:2px;fill:#ffb38f}
+    .h1{font-size:28px;font-weight:800;letter-spacing:-.5px;fill:#ffffff}
+    .sub{font-size:15px;font-weight:500;fill:#a9bddd}
+    .src{font-size:13px;font-weight:500;fill:#7f93b5}
+    .up{animation:up .7s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    .gh{font-size:17px;font-weight:800;fill:#ffffff}
+    .mono{font-weight:800;letter-spacing:-.2px}
+    .tn{font-size:15px;font-weight:700;fill:#ffffff}
+    .td{font-size:13px;font-weight:500;fill:#a9bddd}
+    .t1{animation-delay:.05s}.t2{animation-delay:.15s}
+    .g1{animation-delay:0.20s}.g2{animation-delay:0.32s}.g3{animation-delay:0.44s}
+    .k1{animation-delay:0.40s}.k2{animation-delay:0.47s}.k3{animation-delay:0.54s}.k4{animation-delay:0.61s}.k5{animation-delay:0.68s}.k6{animation-delay:0.75s}.k7{animation-delay:0.82s}.k8{animation-delay:0.89s}.k9{animation-delay:0.96s}.k10{animation-delay:1.03s}.k11{animation-delay:1.10s}.k12{animation-delay:1.17s}.k13{animation-delay:1.24s}.k14{animation-delay:1.31s}.k15{animation-delay:1.38s}
+    @media (prefers-reduced-motion:reduce){.up{animation:none}}
+  </style>
+  <g clip-path="url(#ts-clip)">
+    <rect width="900" height="516" fill="url(#ts-bg)"/>
+    <rect width="900" height="516" fill="url(#ts-dots)"/>
+    <circle cx="820" cy="20" r="260" fill="url(#ts-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="899" height="515" rx="19.5" fill="none" stroke="#23406f"/>
+  <g class="f">
+    <g class="up t1">
+      <circle cx="42" cy="44" r="4.5" fill="#5eead4"/>
+      <text x="56" y="49" class="eb">TECH AND TOOLS</text>
+    </g>
+    <text x="36" y="88" class="h1 up t2">The stack behind the results</text>
+    
+    <g class="up g1">
+      <rect x="24" y="118" width="276" height="382" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".11"/>
+      <rect x="40" y="134" width="34" height="34" rx="10" fill="#5eead4" fill-opacity=".16" stroke="#5eead4" stroke-opacity=".5"/>
+      <g transform="translate(47 141) scale(0.8333)" fill="none" stroke="#5eead4" stroke-width="2.64" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 8L4 12l4.5 4M15.5 8L20 12l-4.5 4M13.5 5l-3 14"/></g>
+      <text x="86" y="157" class="gh">Build and automate</text>
+    </g>
+    <g class="up k1">
+      <rect x="36" y="184" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="46" y="193" width="36" height="36" rx="9" fill="#3776AB"/>
+      <text x="64" y="216.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">Py</text>
+      <text x="94" y="208" class="tn">Python</text>
+      <text x="94" y="227" class="td">Tracking, audits, crawlers</text>
+    </g>
+    <g class="up k2">
+      <rect x="36" y="246" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="46" y="255" width="36" height="36" rx="9" fill="#5FA04E"/>
+      <text x="64" y="278.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">JS</text>
+      <text x="94" y="270" class="tn">Node.js</text>
+      <text x="94" y="289" class="td">Scheduled AI routines</text>
+    </g>
+    <g class="up k3">
+      <rect x="36" y="308" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="46" y="317" width="36" height="36" rx="9" fill="#D97757"/>
+      <text x="64" y="340.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">CC</text>
+      <text x="94" y="332" class="tn">Claude Code</text>
+      <text x="94" y="351" class="td">AI-assisted builds</text>
+    </g>
+    <g class="up k4">
+      <rect x="36" y="370" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="46" y="379" width="36" height="36" rx="9" fill="#334155"/>
+      <text x="64" y="402.5" class="mono" style="font-size:13px;fill:#ffffff" text-anchor="middle">MCP</text>
+      <text x="94" y="394" class="tn">MCP integrations</text>
+      <text x="94" y="413" class="td">Agents connected to tools</text>
+    </g>
+    <g class="up k5">
+      <rect x="36" y="432" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="46" y="441" width="36" height="36" rx="9" fill="#24292f"/>
+      <text x="64" y="464.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">GH</text>
+      <text x="94" y="456" class="tn">GitHub</text>
+      <text x="94" y="475" class="td">81 pull requests delivered</text>
+    </g>
+    <g class="up g2">
+      <rect x="312" y="118" width="276" height="382" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".11"/>
+      <rect x="328" y="134" width="34" height="34" rx="10" fill="#5eead4" fill-opacity=".16" stroke="#5eead4" stroke-opacity=".5"/>
+      <g transform="translate(335 141) scale(0.8333)" fill="none" stroke="#5eead4" stroke-width="2.64" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4v16h16"/><path d="M7.5 15l3.5-4 3 2.5 5-6"/></g>
+      <text x="374" y="157" class="gh">Measure</text>
+    </g>
+    <g class="up k6">
+      <rect x="324" y="184" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="334" y="193" width="36" height="36" rx="9" fill="#458CF5"/>
+      <text x="352" y="216.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">SC</text>
+      <text x="382" y="208" class="tn">Search Console</text>
+      <text x="382" y="227" class="td">Positions, clicks, indexing</text>
+    </g>
+    <g class="up k7">
+      <rect x="324" y="246" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="334" y="255" width="36" height="36" rx="9" fill="#E37400"/>
+      <text x="352" y="278.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">GA</text>
+      <text x="382" y="270" class="tn">Google Analytics 4</text>
+      <text x="382" y="289" class="td">Visits and AI referrals</text>
+    </g>
+    <g class="up k8">
+      <rect x="324" y="308" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="334" y="317" width="36" height="36" rx="9" fill="#FF642D"/>
+      <text x="352" y="340.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">SR</text>
+      <text x="382" y="332" class="tn">Semrush</text>
+      <text x="382" y="351" class="td">Authority and AI visibility</text>
+    </g>
+    <g class="up k9">
+      <rect x="324" y="370" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="334" y="379" width="36" height="36" rx="9" fill="#C2410C"/>
+      <text x="352" y="402.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">LH</text>
+      <text x="382" y="394" class="tn">Lighthouse</text>
+      <text x="382" y="413" class="td">Speed audits, every page</text>
+    </g>
+    <g class="up k10">
+      <rect x="324" y="432" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="334" y="441" width="36" height="36" rx="9" fill="#0F7B8A"/>
+      <text x="352" y="464.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">B</text>
+      <text x="382" y="456" class="tn">Bing Webmaster Tools</text>
+      <text x="382" y="475" class="td">Bing search data</text>
+    </g>
+    <g class="up g3">
+      <rect x="600" y="118" width="276" height="382" rx="16" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".11"/>
+      <rect x="616" y="134" width="34" height="34" rx="10" fill="#5eead4" fill-opacity=".16" stroke="#5eead4" stroke-opacity=".5"/>
+      <g transform="translate(623 141) scale(0.8333)" fill="none" stroke="#5eead4" stroke-width="2.64" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20l4.2-1 10.3-10.3a2.1 2.1 0 0 0-3-3L5.2 16z"/><path d="M13.5 7.5l3 3"/></g>
+      <text x="662" y="157" class="gh">Publish and design</text>
+    </g>
+    <g class="up k11">
+      <rect x="612" y="184" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="622" y="193" width="36" height="36" rx="9" fill="#21759B"/>
+      <text x="640" y="216.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">W</text>
+      <text x="670" y="208" class="tn">WordPress</text>
+      <text x="670" y="227" class="td">Speed and SEO work</text>
+    </g>
+    <g class="up k12">
+      <rect x="612" y="246" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="622" y="255" width="36" height="36" rx="9" fill="#f4f4f5"/>
+      <text x="640" y="278.5" class="mono" style="font-size:15px;fill:#111111" text-anchor="middle">N</text>
+      <text x="670" y="270" class="tn">Notion</text>
+      <text x="670" y="289" class="td">Plans and work logs</text>
+    </g>
+    <g class="up k13">
+      <rect x="612" y="308" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="622" y="317" width="36" height="36" rx="9" fill="#A259FF"/>
+      <text x="640" y="340.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">F</text>
+      <text x="670" y="332" class="tn">Figma</text>
+      <text x="670" y="351" class="td">Design files</text>
+    </g>
+    <g class="up k14">
+      <rect x="612" y="370" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="622" y="379" width="36" height="36" rx="9" fill="#00A3AD"/>
+      <text x="640" y="402.5" class="mono" style="font-size:15px;fill:#ffffff" text-anchor="middle">C</text>
+      <text x="670" y="394" class="tn">Canva</text>
+      <text x="670" y="413" class="td">Social visuals</text>
+    </g>
+    <g class="up k15">
+      <rect x="612" y="432" width="252" height="54" rx="12" fill="#081530" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".08"/>
+      <rect x="622" y="441" width="36" height="36" rx="9" fill="#2563EB"/>
+      <text x="640" y="464.5" class="mono" style="font-size:13px;fill:#ffffff" text-anchor="middle">{ }</text>
+      <text x="670" y="456" class="tn">JSON-LD and llms.txt</text>
+      <text x="670" y="475" class="td">Schema and AI-readable files</text>
+    </g>
+  </g>
+</svg>

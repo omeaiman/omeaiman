@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="506" viewBox="0 0 900 506" role="img" aria-labelledby="rc-title rc-desc">
+  <title id="rc-title">Google position climb from 70.3 to 4.8, page one, for a US buyer search. AI sales platform (US), Google Search Console.</title>
+  <desc id="rc-desc">Line chart of the 28-day average Google position in the US for a buyer search for the best platforms in the category: 70.3 for the 28 days to 4 Sep 2026, 39.4 to 20 Sep, 22.1 to 11 Oct, 11.5 to 8 Nov and 4.8 for 26 Oct to 22 Nov 2026 (3 impressions in the first window, 28 in the last). Also on page one: a product feature page from 76.8 to 8.6 (all countries, 28 days to 4 Sep vs to 22 Nov 2026), an alternatives search from 58 to 8.0 (28 days to 23 Sep vs to 22 Nov 2026) and a competitor comparison page from 18.9 to 7.8 (28 days to 20 Oct vs to 22 Nov 2026).</desc>
+  <defs>
+    <linearGradient id="rc-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081530"/>
+      <stop offset="1" stop-color="#0f2752"/>
+    </linearGradient>
+    <radialGradient id="rc-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2a78d6" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#2a78d6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="rc-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#9fc1ff" fill-opacity=".10"/>
+    </pattern>
+    <clipPath id="rc-clip"><rect width="900" height="506" rx="20"/></clipPath>
+    <linearGradient id="rc-line" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#4b94ec"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <linearGradient id="rc-area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5eead4" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .eb{font-size:13px;font-weight:700;letter-spacing:2px;fill:#8ab8ff}
+    .ebo{font-size:13px;font-weight:700;letter-spacing:2px;fill:#ffb38f}
+    .h1{font-size:28px;font-weight:800;letter-spacing:-.5px;fill:#ffffff}
+    .sub{font-size:15px;font-weight:500;fill:#a9bddd}
+    .src{font-size:13px;font-weight:500;fill:#7f93b5}
+    .up{animation:up .7s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    .ax{font-size:13px;font-weight:500;fill:#7f93b5}
+    .axl{font-size:13px;font-weight:600;fill:#a9bddd}
+    .grid{stroke:#ffffff;stroke-opacity:.08;stroke-dasharray:3 5}
+    .base{stroke:#ffffff;stroke-opacity:.22}
+    .band{font-size:13px;font-weight:800;letter-spacing:1.4px;fill:#5eead4}
+    .band2{font-size:13px;font-weight:600;fill:#7f93b5}
+    .bub{font-size:15px;font-weight:800;fill:#ffffff}
+    .bubs{font-size:13px;font-weight:600;fill:#a9bddd}
+    .bubt{font-size:15px;font-weight:800;fill:#5eead4}
+    .ch{font-size:15px;font-weight:700;fill:#e6efff}
+    .cfrom{font-size:22px;font-weight:700;fill:#a9bddd}
+    .carr{font-size:20px;font-weight:700;fill:#5eead4}
+    .cto{font-size:24px;font-weight:800;fill:#ffffff}
+    .pg{font-size:13px;font-weight:800;fill:#5eead4}
+    .clab{font-size:14px;font-weight:600;fill:#d3e1f7}
+    .cwin{font-size:13px;font-weight:500;fill:#7f93b5}
+    .t1{animation-delay:.05s}.t2{animation-delay:.15s}.t3{animation-delay:.25s}
+    .c1{animation-delay:0.55s}.c2{animation-delay:0.73s}.c3{animation-delay:0.91s}
+    .trend{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 1.6s cubic-bezier(.45,0,.2,1) .35s both}
+    @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+    .area{animation:fade .9s ease 1.5s both}
+    .dots{animation:fade .5s ease 1.7s both}
+    .late{animation:fade .5s ease 1.9s both}
+    .ping{transform-box:fill-box;transform-origin:50% 50%;opacity:0;animation:ping 2.4s ease-out 2.3s infinite}
+    @keyframes ping{0%{transform:scale(1);opacity:.75}100%{transform:scale(3.4);opacity:0}}
+    @media (prefers-reduced-motion:reduce){
+      .up,.trend,.area,.dots,.late{animation:none}
+      .ping{animation:none;opacity:0}
+    }
+  </style>
+  <g clip-path="url(#rc-clip)">
+    <rect width="900" height="506" fill="url(#rc-bg)"/>
+    <rect width="900" height="506" fill="url(#rc-dots)"/>
+    <circle cx="820" cy="30" r="280" fill="url(#rc-glow)"/>
+  </g>
+  <rect x=".5" y=".5" width="899" height="505" rx="19.5" fill="none" stroke="#23406f"/>
+  <g class="f">
+    <g class="up t1">
+      <circle cx="42" cy="44" r="4.5" fill="#4b94ec"/>
+      <text x="56" y="49" class="eb">AI SALES PLATFORM (US) · GOOGLE SEARCH CONSOLE</text>
+    </g>
+    <text x="36" y="92" class="h1 up t2">From position 70.3 to page one on Google</text>
+    <text x="36" y="120" class="sub up t3">A US buyer search for the best platforms in the category, average position over 28 days</text>
+
+    <!-- page one (1 to 10) and page two (11 to 20) bands -->
+    <rect x="84" y="184" width="504" height="25.69999999999999" fill="#5eead4" fill-opacity=".13"/>
+    <line x1="84" x2="588" y1="209.7" y2="209.7" stroke="#5eead4" stroke-opacity=".55" stroke-dasharray="4 4"/>
+    <rect x="84" y="209.7" width="504" height="28.700000000000017" fill="#ffffff" fill-opacity=".035"/>
+    <line class="grid" x1="84" x2="588" y1="184.0" y2="184.0"/><text x="72" y="188.5" class="ax" text-anchor="end">1</text><line class="grid" x1="84" x2="588" y1="209.7" y2="209.7"/><text x="72" y="214.2" class="ax" text-anchor="end">10</text><line class="grid" x1="84" x2="588" y1="238.4" y2="238.4"/><text x="72" y="242.9" class="ax" text-anchor="end">20</text><line class="grid" x1="84" x2="588" y1="295.6" y2="295.6"/><text x="72" y="300.1" class="ax" text-anchor="end">40</text><line class="grid" x1="84" x2="588" y1="352.8" y2="352.8"/><text x="72" y="357.3" class="ax" text-anchor="end">60</text><line class="base" x1="84" x2="588" y1="410.0" y2="410.0"/><text x="72" y="414.5" class="ax" text-anchor="end">80</text>
+    <text x="96" y="204" class="band">PAGE ONE</text>
+    <text x="96" y="230.7" class="band2">Page two</text>
+    <text x="36" y="170" class="axl">Position (1 is the top result)</text>
+    <text x="84.0" y="432" class="ax" text-anchor="start">4 Sep</text><text x="275.4" y="432" class="ax" text-anchor="middle">4 Oct</text><text x="454.0" y="432" class="ax" text-anchor="middle">1 Nov</text><text x="588.0" y="432" class="ax" text-anchor="end">22 Nov</text>
+
+    <path class="area" d="M84.0 382.3L96.8 380.2L141.4 343.1L186.1 293.9L230.7 268.1L262.6 261.8L275.4 249.5L320.1 244.4L364.7 242.9L409.4 236.6L454.0 226.6L498.7 214.0L588.0 194.9L588.0 410L84.0 410Z" fill="url(#rc-area)"/>
+    <path class="trend" pathLength="1" d="M84.0 382.3L96.8 380.2L141.4 343.1L186.1 293.9L230.7 268.1L262.6 261.8L275.4 249.5L320.1 244.4L364.7 242.9L409.4 236.6L454.0 226.6L498.7 214.0L588.0 194.9" fill="none" stroke="url(#rc-line)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g class="dots"><circle cx="96.8" cy="380.2" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="141.4" cy="343.1" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="186.1" cy="293.9" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="230.7" cy="268.1" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="262.6" cy="261.8" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="275.4" cy="249.5" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="320.1" cy="244.4" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="364.7" cy="242.9" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="409.4" cy="236.6" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="454.0" cy="226.6" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/><circle cx="498.7" cy="214.0" r="3.2" fill="#0b1d40" stroke="#8ab8ff" stroke-width="1.8"/></g>
+
+    <g class="late">
+      <circle cx="84.0" cy="382.3" r="5" fill="#8ab8ff" stroke="#0b1d40" stroke-width="2"/>
+      <rect x="96.0" y="388.3" width="128" height="28" rx="14" fill="#0b1d40" stroke="#4b94ec" stroke-opacity=".7"/>
+      <text x="110.0" y="407.3"><tspan class="bub">70.3</tspan><tspan class="bubs" dx="8">to 4 Sep</tspan></text>
+
+      <rect x="470.0" y="146.9" width="128" height="28" rx="14" fill="#0b1d40" stroke="#5eead4" stroke-opacity=".8"/>
+      <path d="M582.0 174.4L588.0 181.9L594.0 174.4" fill="#0b1d40" stroke="#5eead4" stroke-opacity=".8" stroke-linejoin="round"/>
+      <rect x="581.5" y="172.9" width="13" height="2.5" fill="#0b1d40"/>
+      <text x="484.0" y="165.9"><tspan class="bubt">4.8</tspan><tspan class="bubs" dx="8">to 22 Nov</tspan></text>
+      <circle class="ping" cx="588.0" cy="194.9" r="6" fill="#5eead4"/>
+      <circle cx="588.0" cy="194.9" r="6.5" fill="#5eead4" stroke="#0b1d40" stroke-width="2.5"/>
+    </g>
+
+    <text x="616" y="182" class="ch up c1">More climbs to page one</text>
+    
+    <g class="up c1">
+      <rect x="616" y="196" width="260" height="74" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="634" y="226"><tspan class="cfrom">76.8</tspan><tspan class="carr" dx="6">→</tspan><tspan class="cto" dx="6">8.6</tspan></text>
+      <text x="860" y="225" class="pg" text-anchor="end">page one</text>
+      <text x="634" y="246" class="clab">A product feature page</text>
+      <text x="634" y="262" class="cwin">All countries · 4 Sep vs 22 Nov</text>
+    </g>
+    <g class="up c2">
+      <rect x="616" y="280" width="260" height="74" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="634" y="310"><tspan class="cfrom">58</tspan><tspan class="carr" dx="6">→</tspan><tspan class="cto" dx="6">8.0</tspan></text>
+      <text x="860" y="309" class="pg" text-anchor="end">page one</text>
+      <text x="634" y="330" class="clab">An alternatives search</text>
+      <text x="634" y="346" class="cwin">28 days to 23 Sep vs to 22 Nov</text>
+    </g>
+    <g class="up c3">
+      <rect x="616" y="364" width="260" height="74" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".12"/>
+      <text x="634" y="394"><tspan class="cfrom">18.9</tspan><tspan class="carr" dx="6">→</tspan><tspan class="cto" dx="6">7.8</tspan></text>
+      <text x="860" y="393" class="pg" text-anchor="end">page one</text>
+      <text x="634" y="414" class="clab">A competitor comparison page</text>
+      <text x="634" y="430" class="cwin">28 days to 20 Oct vs to 22 Nov</text>
+    </g>
+
+    <text x="36" y="466" class="src">Google Search Console, average position over 28 days, read 24 Sep to 23 Nov 2026. Chart: US only,</text>
+    <text x="36" y="486" class="src">3 impressions in the first window and 28 in the last. Company name withheld at its request.</text>
+  </g>
+</svg>
